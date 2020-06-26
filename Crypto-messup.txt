@@ -1,0 +1,13 @@
+It is easy one.
+Step1: 
+https://www.boxentriq.com/code-breaking/cipher-identifier  use this link to identify the cipher and it is base 64.
+Decode the string using base 64
+result:
+UUTCTF{.---- -. - ...-- .-. . ..... - ...-- -.. -....- .. -. -....- -- ----- .-. ..... . -....- -.-. ----- -.. ...--}
+
+Step2:
+Decode the the content of Marse code with in brackets{}.
+result:
+1NT3RE5T3D-IN-M0R5E-C0D3
+So, the flag is: UUTCTF{1NT3RE5T3D-IN-M0R5E-C0D3}
+Thank you guys. Have a good day.
